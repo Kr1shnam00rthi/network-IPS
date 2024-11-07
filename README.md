@@ -1,1 +1,1 @@
-## Secure Bank Management System
+## Network Intrusion Prevention System
